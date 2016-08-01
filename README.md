@@ -11,7 +11,7 @@ Python Packages used in the project:
  
 This project is meant to give deeper understanding of the airbnb listing data, and introduce how powerful and convenient scikit-learn package's algorithm functions are.
 
-Final Findings Summarized:
+## Final Findings Summarized:
 - Most of the listings are clustered near the bart stations and center of the city
 - Mission (773), Western Addition (557) and South of Market (440) at the top 3 neighborhoods with most listings
 - Average price of all SF listings is $203.64.
